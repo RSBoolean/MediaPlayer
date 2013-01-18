@@ -1,0 +1,17 @@
+.scene {
+    -fx-background-color: null;
+    -fx-font: 10pt "Arial" normal bold;
+
+}
+
+#search-bar {
+    -fx-background-color: null;
+    -fx-background-image: url('../img/search-normal.png');
+    -fx-background-repeat: no-repeat;
+    -fx-alignment: center;
+    -fx-background-size: stretch;
+}
+
+#search-bar:focused {
+    -fx-background-image: url('../img/search-active.png');
+}

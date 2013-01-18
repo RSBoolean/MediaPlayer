@@ -1,0 +1,15 @@
+<plugin>
+
+    <name>MediaPlayer</name>
+
+    <version>0.1</version>
+
+    <class>net.illusion.media.Player</class>
+
+    <paths>
+        <path>bin</path>
+        <path>resources</path>
+    </paths>
+
+
+</plugin>
